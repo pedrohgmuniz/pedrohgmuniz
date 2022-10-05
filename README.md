@@ -1,4 +1,4 @@
-### Hello there and welcome to my profile 🖖😄
+### Hello there! Welcome to my profile! 🖖😄
 
 - 👨‍🎓 I'm a former Philosophy professor who is extremely curious about technology and decided to work in the field
 - 🌱 I’m currently learning Swift and UX/UI Design at the Apple Developer Academy in Fortaleza (class of 2023)
