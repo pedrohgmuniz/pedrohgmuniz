@@ -3,8 +3,8 @@
 - 👨‍🎓 I'm a former Philosophy professor who is extremely curious about technology and so decided to work in the field
 - 🌱 I’m currently learning Swift and UX/UI Design at the Apple Developer Academy in Fortaleza (class of 2023)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trekker, I also love the Hitchhiker's Guide to the Galaxy (and sci-fi | fantasy in general)
 - 🌍 I speak Portuguese, English, French, German and a little bit of Japanese
+- ⚡ Fun facts: I first got interested in programming in 2017, when I finished my PhD in Philosophy of Language and started studying Computational Linguistics and NLP. I love the Hitchhiker's Guide to the Galaxy, as well as sci-fi and fantasy in general, and probably have a reasonably harmless addiction to coffee.
 
 <!-- Estatus do git -->
 <div align="center">
