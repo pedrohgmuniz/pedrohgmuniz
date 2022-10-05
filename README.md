@@ -1,6 +1,6 @@
 ### Hello there! Welcome to my profile! 🖖😄
 
-- 👨‍🎓 I'm a former Philosophy professor who is extremely curious about technology and decided to work in the field
+- 👨‍🎓 I'm a former Philosophy professor who is extremely curious about technology and so decided to work in the field
 - 🌱 I’m currently learning Swift and UX/UI Design at the Apple Developer Academy in Fortaleza (class of 2023)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trekker, I also love the Hitchhiker's Guide to the Galaxy (and sci-fi | fantasy in general)
