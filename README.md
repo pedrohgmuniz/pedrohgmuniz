@@ -1,9 +1,9 @@
-### Hello there 👋
+### Hello there and welcome to my profile 🖖😄
 
 - 👨‍🎓 I'm a former Philosophy professor who is extremely curious about technology and decided to work in the field
 - 🌱 I’m currently learning Swift and UX/UI Design at the Apple Developer Academy in Fortaleza (class of 2023)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the Hitchhiker's Guide to the Galaxy (as well as sci-fi and fantasy in general)
+- ⚡ Fun fact: Trekker, I also love the Hitchhiker's Guide to the Galaxy (and sci-fi | fantasy in general)
 - 🌍 I speak Portuguese, English, French, German and a little bit of Japanese
 
 <!-- Estatus do git -->
@@ -28,7 +28,5 @@
 [//]: # "<a href="https://www.behance.net/npedrohgmuniz" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>" 
   <a href = "mailto:phgmuniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrohgmuniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
- ![Snake animation](https://github.com/pedrohgmuniz/pedrohgmuniz/blob/output/github-contribution-grid-snake.svg)
-   
+      
   <div>
