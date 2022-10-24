@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Swift and UX/UI Design at the Apple Developer Academy in Fortaleza (class of 2023)
 - 😄 Pronouns: He/Him
 - 🌍 I speak Portuguese, English, French, German and a little bit of Japanese
-- 👨‍💻 Fun fact #1: I first got interested in programming in 2017, when I finished my PhD in Philosophy (PUC-Rio, specializing in Philosophy of Language and Thought) and started studying Computational Linguistics.
-- ⚡ Fun fact #2: I am a huge Douglas Adams fan and love sci-fi and fantasy in general.
-- ☕️ Fun fact #3: I probably have a reasonably harmless addiction to coffee 😜
+- 👨‍💻 Random fact about me: I first got interested in programming in 2017, when I finished my PhD in Philosophy (PUC-Rio, specializing in Philosophy of Language and Thought) and started studying Computational Linguistics.
 
 <!-- Estatus do git -->
 <div align="center">
